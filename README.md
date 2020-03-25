@@ -1,2 +1,0 @@
-# StarWarsIX
-Created with CodeSandbox
